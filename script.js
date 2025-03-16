@@ -172,6 +172,7 @@ async function getYearFact() {
 //Assigned year button
 const newYearButton = document.getElementById("yearBtn");
 
+
 //Function to change to Year Image
 function changeToYear() {
   picture.src = "images/Year.jpg";
